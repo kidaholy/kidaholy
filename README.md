@@ -3,7 +3,7 @@
 
 <!-- Introduction -->
 <h1 align="center" style="front-weight: bold;">Hi there, I'm Kidus Yosef 👋</h1>
-<h3 align="center">Fron-end developer</h3>
+<h3 align="center">Front-end developer</h3>
 
 <!-- Animated coding GIF -->
 <img align="right" alt="Coding" width="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
