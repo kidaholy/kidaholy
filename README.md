@@ -2,7 +2,7 @@
 <img width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="ray-so-export" border="0" />
 
 <!-- Introduction -->
-<h1 align="center" style="font-weight: bold;">Hi there, I'm Kidus Yosef 👋</h1>
+<h1 align="center" style="front-weight: bold;">Hi there, I'm Kidus Yosef 👋</h1>
 <h3 align="center">Fron-end developer</h3>
 
 <!-- Animated coding GIF -->
