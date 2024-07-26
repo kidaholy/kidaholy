@@ -17,7 +17,7 @@
 <ul style="list-style: none; padding-left: 0;">
   <!-- <li><b>🔭 I’m currently working on:</b> MERN Stack project for my startup business</li> -->
   <li><b>💬 Ask me about:</b> javaScript, C, python and others.</li>
-  <li><b>📫 How to reach me:</b> <a href="kidayos2014@gmail.com">kidayos2014@gmail.com</a></li>
+  <li><b>📫 How to reach me:</b> <a href="kidayos2014@gmail.com" target="_blank">kidayos2014@gmail.com</a></li>
   <li>⚡ I'm passionate about creating clean, user-friendly web experiences and exploring the latest technologies.</li>
   <!-- <li><b>⚡ Fun fact:</b> Debugging is finding and removing errors in code. Originated from a real bug – a moth trapped in a computer! 😂</li> -->
 </ul>
